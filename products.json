@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "Cartoon Shirt",
+        "category": "Short-sleeve Shirt",
+        "price": 45.00,
+        "description": "A comfortable and stylish casual shirt perfect for everyday wear.",
+        "image": "img/f1.jpg",
+        "review": "This Cartoon Shirt is loved for its fun design and comfort."
+    },
+    {
+        "id": 2,
+        "name": "White-flower Shirt",
+        "category": "Short-sleeve Shirt",
+        "price": 75.00,
+        "description": "Lightweight running shoes for comfort and performance.",
+        "image": "img/f2.jpg",
+        "review": "The White-flower Shirt is praised for its elegant floral pattern."
+    },
+    {
+        "id": 3,
+        "name": "Rose Shirt",
+        "category": "Short-sleeve Shirt",
+        "price": 20.00,
+        "description": "A stylish hat to complement your casual outfits.",
+        "image": "img/f3.jpg",
+        "review": "The Rose Shirt is admired for its beautiful rose-themed design."
+    },
+    {
+        "id": 4,
+        "name": "Sakura Shirt",
+        "category": "Short-sleeve Shirt",
+        "price": 35.00,
+        "description": "A comfortable and stylish casual shirt perfect for everyday wear.",
+        "image": "img/f4.jpg",
+        "review": "The Sakura Shirt is popular for its lovely cherry blossom print."
+    },
+    {
+        "id": 5,
+        "name": "Pink-flower Shirt",
+        "category": "Short-sleeve Shirt",
+        "price": 45.00,
+        "description": "A comfortable and stylish casual shirt perfect for everyday wear.",
+        "image": "img/f5.jpg",
+        "review": "The Pink-flower Shirt is appreciated for its vibrant floral design."
+    },
+    {
+        "id": 6,
+        "name": "Mix-color Shirt",
+        "category": "Long-sleeve Shirt",
+        "price": 55.00,
+        "description": "A comfortable and stylish casual shirt perfect for everyday wear.",
+        "image": "img/f6.jpg",
+        "review": "The Mix-color Shirt is known for its unique blend of colors."
+    },
+    {
+        "id": 7,
+        "name": "Cotton pant",
+        "category": "Pant",
+        "price": 65.00,
+        "description": "A comfortable and stylish casual shirt perfect for everyday wear.",
+        "image": "img/f7.jpg",
+        "review": "The Cotton Pant is favored for its softness and comfort."
+    },
+    {
+        "id": 8,
+        "name": "Light-blue Shirt",
+        "category": "Long-sleeve Shirt",
+        "price": 75.00,
+        "description": "A comfortable and stylish casual shirt perfect for everyday wear.",
+        "image": "img/n1.jpg",
+        "review": "The Light-blue Shirt is praised for its calming color."
+    },
+    {
+        "id": 9,
+        "name": "Grey Shirt",
+        "category": "Long-sleeve Shirt",
+        "price": 85.00,
+        "description": "A comfortable and stylish casual shirt perfect for everyday wear.",
+        "image": "img/n2.jpg",
+        "review": "The Grey Shirt is liked for its classic and versatile look."
+    },
+    {
+        "id": 10,
+        "name": "White Shirt",
+        "category": "Long-sleeve Shirt",
+        "price": 15.00,
+        "description": "A comfortable and stylish casual shirt perfect for everyday wear.",
+        "image": "img/n3.jpg",
+        "review": "The White Shirt is valued for its simplicity and elegance."
+    },
+    {
+        "id": 11,
+        "name": "Dark-blue Shirt",
+        "category": "Long-sleeve Shirt",
+        "price": 25.00,
+        "description": "A comfortable and stylish casual shirt perfect for everyday wear.",
+        "image": "img/n5.jpg",
+        "review": "The Dark-blue Shirt is admired for its deep and rich color."
+    },
+    {
+        "id": 12,
+        "name": "Short Pant",
+        "category": "Pant",
+        "price": 35.00,
+        "description": "A comfortable and stylish casual shirt perfect for everyday wear.",
+        "image": "img/n6.jpg",
+        "review": "The Short Pant is popular for its casual and comfy fit."
+    }
+]
